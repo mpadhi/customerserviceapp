@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.infosys.customerservice.customerserviceapp
+---
+testFramework: junit
+sourceLanguage: java
